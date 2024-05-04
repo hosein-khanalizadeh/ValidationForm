@@ -9,7 +9,7 @@ you are welcome here
 <br>
 
 <div align="center">
-<h2><img src="https://github.com/Shrejal123/DataScienceWebsite.github.io/assets/114261409/e325eb32-a9c4-448a-a6bc-74430172d515" alt="High Voltage" width="50" height="50" /><font size="12">Tech Stack</font></h2>
+<h2>Tech Stack</h2>
 </div>
 <div align="center">
 <p>
